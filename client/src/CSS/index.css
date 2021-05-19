@@ -1,0 +1,10 @@
+.photo{
+    height: 40px;
+    width: 40px;
+}
+
+.scroller {
+    height: 800px;
+    overflow: scroll;
+    width: 100%;
+  }
